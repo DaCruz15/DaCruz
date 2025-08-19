@@ -4,6 +4,8 @@
 🚀 Foco em **Back-end**, **DevOps** e **Cloud**  
 🐧 Fascinado por **Linux** e soluções automatizadas
 
+**obs:** Perdi o acesso a minha conta do GitHub antiga
+
 ## 📌 Sobre mim 
 
 Desde 2022 venho trilhando meu caminho no mundo da tecnologia, com ênfase em desenvolvimento e infraestrutura.  
