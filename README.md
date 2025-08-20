@@ -4,7 +4,7 @@
 🚀 Foco em **Back-end**, **DevOps** e **Cloud**  
 🐧 Fascinado por **Linux** e soluções automatizadas
 
-**obs:** Perdi o acesso a minha conta do GitHub antiga
+**obs:** Conta reserva
 
 ## 📌 Sobre mim 
 
